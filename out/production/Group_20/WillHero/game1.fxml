@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+
+<AnchorPane fx:id="gameScreenFixed1" prefHeight="490.0" prefWidth="900" style="-fx-background-color: #3de0ff;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="WillHero.GameController">
+   <children>
+      <Group layoutX="300.0" layoutY="187.0" />
+      <Group />
+      <Line fx:id="fallline" endX="25000.0" layoutX="101.0" layoutY="248.0" opacity="0.0" startX="-100.0" />
+   </children>
+</AnchorPane>
