@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane prefHeight="490.0" prefWidth="900.0" style="-fx-background-color: #1AA7EC;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="WillHero.Page5">
+   <children>
+      <Text fill="#ffef00" layoutX="269.0" layoutY="184.0" strokeType="OUTSIDE" strokeWidth="0.0" text="YOU WON!!!" textAlignment="CENTER">
+         <font>
+            <Font size="120.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
